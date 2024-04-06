@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, React, Restful Apis**
 
-- 📫 How to reach me **omotayoquadri@gmail.com**
+- 📫 How to reach me **quadrimotayo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
