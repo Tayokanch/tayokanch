@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kazeem Omotayo Quadri</h1>
+<h1 align="center">Hi 👋, I'm  Omotayo Quadri</h1>
 <h3 align="center">An inquisitive Junior Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayokanch&label=Profile%20views&color=0e75b6&style=flat" alt="tayokanch" /> </p>
