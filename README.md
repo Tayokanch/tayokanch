@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at (https://omotayo.netlify.app/)
 
-- 💬 Ask me about **JavaScript TypeScript, AWS, DevOps , Linux React, Nextjs Restful Apis**
+- 💬 Ask me about **JavaScript TypeScript, Python, C#, AWS, DevOps , Linux React, Nextjs Restful Apis**
 
 - 📫 How to reach me **quadrimotayo@gmail.com**
 
