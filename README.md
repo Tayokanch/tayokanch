@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Omotayo Quadri</h1>
-<h3 align="center">An inquisitive Junior Software Developer</h3>
+<h3 align="center">Software Developer | DevOps Engineer | AWS Cloud Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayokanch&label=Profile%20views&color=0e75b6&style=flat" alt="tayokanch" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Explore lagos](https://github.com/Tayokanch/ExploreLagos)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning ****AWS Cloud Architecture****
 
-- 👨‍💻 All of my projects are available at [https://flourishing-kheer-34d686.netlify.app/](https://flourishing-kheer-34d686.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://omotayo.netlify.app/)
 
-- 💬 Ask me about **JavaScript, React, Restful Apis**
+- 💬 Ask me about **JavaScript TypeScript, AWS, DevOps , Linux React, Nextjs Restful Apis**
 
 - 📫 How to reach me **quadrimotayo@gmail.com**
 
