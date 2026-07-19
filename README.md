@@ -82,14 +82,15 @@ I'm a Geospatial Developer with a background in Geography, an MSc in GIS, and st
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  width="80" height="60"/>
 </p>
 
+----
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tayokanch&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tayokanch&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" />
 
 </p>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Tayokanch&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Tayokanch&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tayokanch&layout=compact&theme=radical)
+
 
 
 ---
