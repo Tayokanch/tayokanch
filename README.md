@@ -1,8 +1,9 @@
 
-<h1 align="center"> Hi, I'm Tayo 👋 </h1>
+<h1 align="center">Hi there, and welcome to my GitHub page 👋 
+</h1>
 
 <h3 align="justify">
-I'm a Geospatial Developer with a background in Geography, an MSc in GIS, and strong skill in Software Engineering.I build geospatial applications that combine spatial analysis, modern web technologies and cloud infrastructure to solve real-world location problems.
+I'm a Geospatial Developer with a background in Geography, an MSc in GIS, and strong skill in Software Engineering. I build geospatial applications that combine spatial analysis, modern web technologies and cloud infrastructure to solve real-world location problems.
 </h3>
 
 <div>
